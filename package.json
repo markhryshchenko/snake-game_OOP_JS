@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "12_snake_oop_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://markhryshchenko.github.io/snake-game_OOP_JS.git",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
